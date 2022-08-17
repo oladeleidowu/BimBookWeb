@@ -10059,11 +10059,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/abimbolaidowu/Projects/BimBookWeb/BimBookWeb.csproj",
+      "projectUniqueName": "/Users/abimbolaidowu/Documents/BimBookWeb/BimBookWeb.csproj",
       "projectName": "BimBookWeb",
-      "projectPath": "/Users/abimbolaidowu/Projects/BimBookWeb/BimBookWeb.csproj",
+      "projectPath": "/Users/abimbolaidowu/Documents/BimBookWeb/BimBookWeb.csproj",
       "packagesPath": "/Users/abimbolaidowu/.nuget/packages/",
-      "outputPath": "/Users/abimbolaidowu/Projects/BimBookWeb/obj/",
+      "outputPath": "/Users/abimbolaidowu/Documents/BimBookWeb/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/abimbolaidowu/.nuget/NuGet/NuGet.Config"
